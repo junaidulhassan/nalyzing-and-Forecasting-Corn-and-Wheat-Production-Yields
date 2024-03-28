@@ -19,7 +19,7 @@ In this project, we use four datasets for yield Analysis.
 * Client_cash.csv
 * new_dump.csv
   
-I Upload dataset in repos you can download it easily
+I Uploaded the dataset in repos you can download it easily
 
 ## Project Goals
 The goals of the project likely involve performing an exhaustive analysis of historical price trends for Corn and Wheat commodities, coupled with investigating cash management dynamics and other relevant factors present in the Client_cash.csv and new_dump.csv files. Specific objectives may comprise:
