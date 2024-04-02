@@ -1,4 +1,4 @@
-# Welcome to our project! 🤗🚀
+# Welcome to our project! 🚀
 # Analyzing-and-Forecasting-Corn-and-Wheat-Production-Yields
 In this project, we will deeply investigate Corn and Wheat crop production stats from the past to discover current trends. Afterward, we plan to create smart models to predict future outputs for both plants according to identified patterns and harvest periods.
 The purpose is to give helpful info for better planning, wiser resource use, dealing with changing conditions, meeting market needs, and staying updated on farming technology in agriculture. Through careful studies, neat graphs, and clever algorithms, we aim to shine a light on hidden factors behind successful Corn and Wheat harvests worldwide, helping bring positive change and success in world farming.
