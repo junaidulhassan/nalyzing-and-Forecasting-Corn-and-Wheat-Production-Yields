@@ -1,7 +1,7 @@
 # Welcome to our project! 🚀
 # Analyzing-and-Forecasting-Corn-and-Wheat-Production-Yields
 In this project, we will deeply investigate Corn and Wheat crop production stats from the past to discover current trends. Afterward, we plan to create smart models to predict future outputs for both plants according to identified patterns and harvest periods.
-The purpose is to give helpful info for better planning, wiser resource use, dealing with changing conditions, meeting market needs, and staying updated on farming technology in agriculture. Through careful studies, neat graphs, and clever algorithms, we aim to shine a light on hidden factors behind successful Corn and Wheat harvests worldwide, helping bring positive change and success in world farming.
+The purpose is to give helpful info for better planning, wiser resource use, dealing with changing conditions, meeting market needs, and staying updated on farming technology in agriculture. Through careful studies neat graphs, and clever algorithms, we aim to shine a light on hidden factors behind successful Corn and Wheat harvests worldwide, helping bring positive change and success in world farming.
 
 ## Key Technologies & Libraries Used
 * Python
@@ -35,6 +35,6 @@ The goals of the project likely involve performing an exhaustive analysis of his
 * Create predictive models integrating discovered insights
 5. Synthesis of actionable recommendations and prescriptive actions intended for stakeholders operating within the agricultural sector, assisting them in navigating uncertain futures, hedging risks, maximizing returns, and reinforcing sustainability commitments.
 * Formulate practical advice and applicable solutions
-6. By pursuing these goals, the project seeks to augment decision-making capacities and enhance operational efficiencies for investors, traders, producers, insurers, policymakers, and scholars having vested interests in the Corn and Wheat commodity ecosystem.
+6. By pursuing these goals, the project seeks to augment decision-making capacities and enhance operational efficiencies for investors, traders, producers, insurers, policymakers, and scholars having vested interests in the Corn and Wheat commodity ecosystem..
 
 # Enjoy exploring, and happy coding! 🎉
